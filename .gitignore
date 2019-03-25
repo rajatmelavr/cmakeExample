@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/bin/
+/build/
+
+#Eclipse Related
+.cproject
+.project
+.settings/
+
